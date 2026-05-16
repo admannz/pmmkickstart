@@ -14,8 +14,10 @@ The manifest is the entry point for AI tools — fetch it first to understand wh
 
 **Manifest URL:**
 ```
-https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/manifest.json
+https://pmmkickstarter.com/assets/ai-skills/field-guide/manifest.json
 ```
+
+Note: this repo is a backup of the content. The skill fetches live from `pmmkickstarter.com`, not from GitHub directly.
 
 ## The Cowork Skill
 
@@ -30,7 +32,7 @@ Download the file and install it in Cowork to query the field guide directly in 
 4. Select **Create skill → Upload a skill**
 5. Attach the downloaded `.skill` file
 
-**Important:** This skill fetches content live from GitHub and requires web network access to be enabled. In Claude, go to **Settings → Capabilities** and make sure "Web access" is turned on, otherwise the skill will return a fetch error.
+**Important:** This skill fetches content live from `pmmkickstarter.com` and requires web network access to that domain to be enabled in Cowork. In Claude, go to **Settings → Capabilities** and make sure network access to `pmmkickstarter.com` is permitted, otherwise the skill will return a fetch error.
 
 Once installed, the skill appears in your Personal Skills list as `pmmkickstart-field-guide` and is available in any Cowork conversation.
 
