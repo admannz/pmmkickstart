@@ -1,0 +1,338 @@
+{
+  "name": "The Agentic PMM Field Guide",
+  "description": "A practical field guide for founders and product marketers navigating PMM in the Age of AI, by Adam at PMMKickstarter.com",
+  "base_url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide",
+  "sections": [
+    {
+      "section": "0",
+      "title": "A Letter to the Reader",
+      "file": "00-letter-to-reader.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/00-letter-to-reader.md",
+      "topics": [
+        "intro",
+        "overview"
+      ]
+    },
+    {
+      "section": "1.1",
+      "title": "What is Product Marketing?",
+      "file": "01-what-is-product-marketing.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/01-what-is-product-marketing.md",
+      "topics": [
+        "fundamentals",
+        "discipline",
+        "intro"
+      ]
+    },
+    {
+      "section": "1.2",
+      "title": "Where Is PMM In The Org Chart?",
+      "file": "02-where-does-pmm-sit.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/02-where-does-pmm-sit.md",
+      "topics": [
+        "org",
+        "structure",
+        "discipline"
+      ]
+    },
+    {
+      "section": "1.3",
+      "title": "The Generalist Advantage",
+      "file": "03-the-generalist-advantage.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/03-the-generalist-advantage.md",
+      "topics": [
+        "career",
+        "skills",
+        "discipline"
+      ]
+    },
+    {
+      "section": "1.4",
+      "title": "The PMM Readiness Check",
+      "file": "17-pmm-readiness-check.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/17-pmm-readiness-check.md",
+      "topics": [
+        "hiring",
+        "founders",
+        "readiness"
+      ]
+    },
+    {
+      "section": "1.5",
+      "title": "Hiring Your PMM",
+      "file": "18-hiring-your-pmm.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/18-hiring-your-pmm.md",
+      "topics": [
+        "hiring",
+        "founders",
+        "team"
+      ]
+    },
+    {
+      "section": "1.6",
+      "title": "When You Are the PMM",
+      "file": "28-founder-as-pmm.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/28-founder-as-pmm.md",
+      "topics": [
+        "founders",
+        "startup",
+        "getting started"
+      ]
+    },
+    {
+      "section": "2.1",
+      "title": "The Emotional Engine",
+      "file": "04-the-emotional-engine.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/04-the-emotional-engine.md",
+      "topics": [
+        "craft",
+        "messaging",
+        "emotion"
+      ]
+    },
+    {
+      "section": "2.2",
+      "title": "Messaging and Narrative",
+      "file": "05-messaging-and-narrative.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/05-messaging-and-narrative.md",
+      "topics": [
+        "craft",
+        "messaging",
+        "positioning"
+      ]
+    },
+    {
+      "section": "2.3",
+      "title": "Presenting with Confidence",
+      "file": "06-presenting-with-confidence.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/06-presenting-with-confidence.md",
+      "topics": [
+        "craft",
+        "presenting",
+        "skills"
+      ]
+    },
+    {
+      "section": "2.4",
+      "title": "ICP and Persona Development",
+      "file": "19-icp-and-personas.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/19-icp-and-personas.md",
+      "topics": [
+        "craft",
+        "icp",
+        "personas",
+        "audience"
+      ]
+    },
+    {
+      "section": "2.5",
+      "title": "Customer Research",
+      "file": "20-customer-research.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/20-customer-research.md",
+      "topics": [
+        "craft",
+        "research",
+        "win-loss"
+      ]
+    },
+    {
+      "section": "2.6",
+      "title": "Competitive Intelligence",
+      "file": "21-competitive-intelligence.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/21-competitive-intelligence.md",
+      "topics": [
+        "craft",
+        "competitive",
+        "battlecard"
+      ]
+    },
+    {
+      "section": "2.7",
+      "title": "Sales Enablement",
+      "file": "22-sales-enablement.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/22-sales-enablement.md",
+      "topics": [
+        "craft",
+        "sales",
+        "enablement"
+      ]
+    },
+    {
+      "section": "2.8",
+      "title": "Launch Management",
+      "file": "23-launch-management.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/23-launch-management.md",
+      "topics": [
+        "craft",
+        "launch",
+        "gtm"
+      ]
+    },
+    {
+      "section": "3.1",
+      "title": "PMM Then vs Now",
+      "file": "07-pmm-then-vs-now.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/07-pmm-then-vs-now.md",
+      "topics": [
+        "ai",
+        "history",
+        "change"
+      ]
+    },
+    {
+      "section": "3.2",
+      "title": "Using AI at Work",
+      "file": "08-using-ai-at-work.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/08-using-ai-at-work.md",
+      "topics": [
+        "ai",
+        "workflow",
+        "tools"
+      ]
+    },
+    {
+      "section": "3.3",
+      "title": "Can AI Replace Your First PMM?",
+      "file": "09-can-ai-replace-your-pmm.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/09-can-ai-replace-your-pmm.md",
+      "topics": [
+        "ai",
+        "hiring",
+        "founders"
+      ]
+    },
+    {
+      "section": "3.4",
+      "title": "The AI Workflow Playbook",
+      "file": "24-ai-workflow-playbook.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/24-ai-workflow-playbook.md",
+      "topics": [
+        "ai",
+        "workflow",
+        "playbook"
+      ]
+    },
+    {
+      "section": "4.1",
+      "title": "Your Agentic PMM Starter Kit",
+      "file": "10-agentic-pmm-starter-kit.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/10-agentic-pmm-starter-kit.md",
+      "topics": [
+        "ai",
+        "getting started",
+        "setup"
+      ]
+    },
+    {
+      "section": "4.2",
+      "title": "The AI-First PMM Team",
+      "file": "11-ai-first-pmm-vision.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/11-ai-first-pmm-vision.md",
+      "topics": [
+        "ai",
+        "team",
+        "vision"
+      ]
+    },
+    {
+      "section": "4.3",
+      "title": "The PMM Kickstart Checklist",
+      "file": "12-pmm-kickstart-checklist.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/12-pmm-kickstart-checklist.md",
+      "topics": [
+        "checklist",
+        "getting started",
+        "setup"
+      ]
+    },
+    {
+      "section": "4.4",
+      "title": "Building Your AI Brief",
+      "file": "14-building-your-claude-md.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/14-building-your-claude-md.md",
+      "topics": [
+        "ai",
+        "claude",
+        "setup",
+        "brief"
+      ]
+    },
+    {
+      "section": "4.5",
+      "title": "Measuring PMM Success",
+      "file": "25-measuring-pmm-success.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/25-measuring-pmm-success.md",
+      "topics": [
+        "metrics",
+        "success",
+        "measurement"
+      ]
+    },
+    {
+      "section": "4.6",
+      "title": "Scaling the Function",
+      "file": "26-scaling-the-function.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/26-scaling-the-function.md",
+      "topics": [
+        "team",
+        "hiring",
+        "growth"
+      ]
+    },
+    {
+      "section": "5.1",
+      "title": "Know Your Currency",
+      "file": "15-know-your-currency.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/15-know-your-currency.md",
+      "topics": [
+        "career",
+        "value",
+        "influence"
+      ]
+    },
+    {
+      "section": "5.2",
+      "title": "Surviving a Career Pivot",
+      "file": "16-surviving-career-pivots.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/16-surviving-career-pivots.md",
+      "topics": [
+        "career",
+        "pivot",
+        "transition"
+      ]
+    },
+    {
+      "section": "5.3",
+      "title": "The First 90 Days",
+      "file": "27-the-first-90-days.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/27-the-first-90-days.md",
+      "topics": [
+        "career",
+        "onboarding",
+        "new job"
+      ]
+    },
+    {
+      "section": "5.4",
+      "title": "Leading a PMM Team",
+      "file": "31-leading-pmm.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/31-leading-pmm.md",
+      "topics": [
+        "career",
+        "management",
+        "leadership"
+      ]
+    },
+    {
+      "section": "99",
+      "title": "Closing: The Manifesto",
+      "file": "99-the-manifesto.md",
+      "url": "https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/99-the-manifesto.md",
+      "topics": [
+        "manifesto",
+        "closing",
+        "philosophy"
+      ]
+    }
+  ]
+}
