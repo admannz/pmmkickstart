@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/manifest
 
 ## The Cowork Skill
 
-A `field-guide.skill` file is available for download from [pmmkickstarter.com](https://pmmkickstarter.com). Install it in Cowork to query the field guide directly in conversation — free-form questions, topic lookups, or guided reading paths based on your situation.
+A `field-guide.skill` file is available for download at [pmmkickstarter.com/assets/downloads/field-guide.skill](https://pmmkickstarter.com/assets/downloads/field-guide.skill). Install it in Cowork to query the field guide directly in conversation — free-form questions, topic lookups, or guided reading paths based on your situation.
 
 ## About the Field Guide
 
