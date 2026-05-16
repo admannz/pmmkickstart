@@ -19,7 +19,18 @@ https://raw.githubusercontent.com/admannz/pmmkickstart/main/field-guide/manifest
 
 ## The Cowork Skill
 
-A `field-guide.skill` file is available for download at [pmmkickstarter.com/assets/downloads/field-guide.skill](https://pmmkickstarter.com/assets/downloads/field-guide.skill). Install it in Cowork to query the field guide directly in conversation — free-form questions, topic lookups, or guided reading paths based on your situation.
+A `pmmkickstart-field-guide.skill` file is available for download at [pmmkickstarter.com/assets/downloads/pmmkickstart-field-guide.skill](https://pmmkickstarter.com/assets/downloads/pmmkickstart-field-guide.skill).
+
+Download the file and install it in Cowork to query the field guide directly in conversation — free-form questions, topic lookups, or guided reading paths based on your situation.
+
+**To install:**
+1. Download the `.skill` file to your computer
+2. Open Claude and go to **Settings → Capabilities → Customize**
+3. On the Skills page, click the **+** button
+4. Select **Create skill → Upload a skill**
+5. Attach the downloaded `.skill` file
+
+Once installed, the skill appears in your Personal Skills list as `pmmkickstart-field-guide` and is available in any Cowork conversation.
 
 ## About the Field Guide
 
