@@ -30,6 +30,8 @@ Download the file and install it in Cowork to query the field guide directly in 
 4. Select **Create skill → Upload a skill**
 5. Attach the downloaded `.skill` file
 
+**Important:** This skill fetches content live from GitHub and requires web network access to be enabled. In Claude, go to **Settings → Capabilities** and make sure "Web access" is turned on, otherwise the skill will return a fetch error.
+
 Once installed, the skill appears in your Personal Skills list as `pmmkickstart-field-guide` and is available in any Cowork conversation.
 
 ## About the Field Guide
